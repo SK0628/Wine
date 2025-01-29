@@ -9,5 +9,5 @@ The Wine dataset consists of 13 chemical properties of wine samples categorized 
 - Standardized features using **StandardScaler** from scikit-learn.
 
 ## Results
-- Model Accuracy: ~ (insert actual accuracy after running)
+- Model Accuracy: 1.00
 - Confusion matrix and classification report included.
